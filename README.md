@@ -2,7 +2,7 @@
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Luo Ying Xi&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20CeciLuo&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,8 +14,8 @@
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/CeciLuo"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/CeciLuo"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://github.com/CeciLuo"><img src="https://img.shields.io/badge/GitHub-CeciLuo-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/CeciLuo"><img src="https://img.shields.io/badge/Gitee-CeciLuo-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 </p>
 <p align="center">
